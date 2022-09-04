@@ -10,4 +10,4 @@ function crawl_page($url,$depth=2){
     }
 }
 
-crawl_page('https://www.acehnews.id/category/politik',2);
+crawl_page('https://www.kompas.com/tag/hukum',2);
